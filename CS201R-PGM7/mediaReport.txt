@@ -1,0 +1,227 @@
+Report for command: M
+Title                                             Name                          Genre          Rating    Length    Year       Additional Info
+-----------------------------------------------------------------------------------------------------------------------------
+To Kill a Mockingbird                             Horton Foote                  Drama          5         129       1962       Gregory Peck Mary Badham 
+Ferris Bueller's Day Off                          John Hughes                   Comedy         7         103       1986       Matthew Broderick Alan Ruck Jennifer Grey
+Rocky                                             Sylvester Stallone            Action         7         119       1976       Sylvester Stallone Carl Weathers 
+Jaws                                              Steven Spielberg              Action         5         129       1975       Roy Scheider Richard Dreyfuss 
+Daughters of the Dust                             Julie Dash                    Drama          8         112       1991       Alva Rogers Cora Lee Day 
+Raiders of the Lost Ark                           George Lucas                  Action         6         115       1981       Harrison Ford Karen Allen 
+Star Wars IV                                      George Lucas                  Action         6         121       1977       Mark Hamill Carrie Fisher Harrison Ford Alec Guiness
+Mr. Holland's Opus                                Stephen Herek                 Drama/Musical  8         143       1995       Richard Dreyfuss Jay Thomas Glenne Headly
+Blade Runner 2049                                 Denis Villeneuve              Sci-Fi         9         163       2017       Ryan Gosling Harrison Ford 
+Jurassic Park                                     Steven Spielberg              Sci-Fi         8         127       1993       Sam Neill Jeff Goldblum 
+Dune                                              Denise Villeneuve             Sci-Fi         7         155       2021       Timothee Chalamet Zendaya 
+Fight Club                                        David Fincher                 Drama          10        7219      1999       Brad Pitt Edward Norton 
+Percy Jackson and the Lightning Thief             Chris Columbus                Fantasy        2         119       2010       Logan Lerman Alexandra Daddario 
+The Grand Budapest Hotel                          Wes Anderson                  Adventure      9         100       2014       Ralph Fiennes Saoirse Ronan 
+Superman                                          Richard Donner                Sci-Fi         8         143       1978       Christopher Reeve Gene Hackman Margo Kidder
+Spirited Away                                     Hayao Miyazaki                Fantasy        8         125       2002       Rumi Hiiragi Miyu Irino 
+Gone Girl                                         David Fincher                 Thriller/Mystery10        149       2014       Ben Affleck Rosamund Pike 
+Moonlight                                         Barry Jenkins                 Drama          10        119       2016       Mahershala Ali Naomi Harris 
+The Wolf of Wallstreet                            Martin Scorsese               Comedy         10        180       2013       Leonardo DiCaprio Jonah Hill 
+Maximum Overdrive                                 Stephen King                  Horror         5         167       1986       Emilio Estivez Pat Hingle Laura Harrington
+
+Report for command: B
+Title                                             Name                          Genre          Rating    Length    Year       Additional Info
+-----------------------------------------------------------------------------------------------------------------------------
+No entries found for command: B
+
+Report for command: S
+Title                                             Name                          Genre          Rating    Length    Year       Additional Info
+-----------------------------------------------------------------------------------------------------------------------------
+No entries found for command: S
+
+Report for command: A
+Title                                             Name                          Genre          Rating    Length    Year       Additional Info
+-----------------------------------------------------------------------------------------------------------------------------
+To Kill a Mockingbird                             Horton Foote                  Drama          5         129       1962       Gregory Peck Mary Badham 
+Ferris Bueller's Day Off                          John Hughes                   Comedy         7         103       1986       Matthew Broderick Alan Ruck Jennifer Grey
+Rocky                                             Sylvester Stallone            Action         7         119       1976       Sylvester Stallone Carl Weathers 
+Jaws                                              Steven Spielberg              Action         5         129       1975       Roy Scheider Richard Dreyfuss 
+Daughters of the Dust                             Julie Dash                    Drama          8         112       1991       Alva Rogers Cora Lee Day 
+Raiders of the Lost Ark                           George Lucas                  Action         6         115       1981       Harrison Ford Karen Allen 
+Star Wars IV                                      George Lucas                  Action         6         121       1977       Mark Hamill Carrie Fisher Harrison Ford Alec Guiness
+Mr. Holland's Opus                                Stephen Herek                 Drama/Musical  8         143       1995       Richard Dreyfuss Jay Thomas Glenne Headly
+Blade Runner 2049                                 Denis Villeneuve              Sci-Fi         9         163       2017       Ryan Gosling Harrison Ford 
+Jurassic Park                                     Steven Spielberg              Sci-Fi         8         127       1993       Sam Neill Jeff Goldblum 
+Dune                                              Denise Villeneuve             Sci-Fi         7         155       2021       Timothee Chalamet Zendaya 
+Fight Club                                        David Fincher                 Drama          10        7219      1999       Brad Pitt Edward Norton 
+Percy Jackson and the Lightning Thief             Chris Columbus                Fantasy        2         119       2010       Logan Lerman Alexandra Daddario 
+The Grand Budapest Hotel                          Wes Anderson                  Adventure      9         100       2014       Ralph Fiennes Saoirse Ronan 
+Superman                                          Richard Donner                Sci-Fi         8         143       1978       Christopher Reeve Gene Hackman Margo Kidder
+Spirited Away                                     Hayao Miyazaki                Fantasy        8         125       2002       Rumi Hiiragi Miyu Irino 
+Gone Girl                                         David Fincher                 Thriller/Mystery10        149       2014       Ben Affleck Rosamund Pike 
+Moonlight                                         Barry Jenkins                 Drama          10        119       2016       Mahershala Ali Naomi Harris 
+The Wolf of Wallstreet                            Martin Scorsese               Comedy         10        180       2013       Leonardo DiCaprio Jonah Hill 
+Maximum Overdrive                                 Stephen King                  Horror         5         167       1986       Emilio Estivez Pat Hingle Laura Harrington
+
+Total Movies: 20
+Total Books: 0
+Total Songs: 0
+Report for command: S,-3
+Title                                             Name                          Genre          Rating    Length    Year       Additional Info
+-----------------------------------------------------------------------------------------------------------------------------
+No entries found for command: S,-3
+
+Report for command: B,8
+Title                                             Name                          Genre          Rating    Length    Year       Additional Info
+-----------------------------------------------------------------------------------------------------------------------------
+No entries found for command: B,8
+
+Report for command: S,9
+Title                                             Name                          Genre          Rating    Length    Year       Additional Info
+-----------------------------------------------------------------------------------------------------------------------------
+No entries found for command: S,9
+
+Report for command: A,10
+Title                                             Name                          Genre          Rating    Length    Year       Additional Info
+-----------------------------------------------------------------------------------------------------------------------------
+Fight Club                                        David Fincher                 Drama          10        7219      1999       Brad Pitt Edward Norton 
+Gone Girl                                         David Fincher                 Thriller/Mystery10        149       2014       Ben Affleck Rosamund Pike 
+Moonlight                                         Barry Jenkins                 Drama          10        119       2016       Mahershala Ali Naomi Harris 
+The Wolf of Wallstreet                            Martin Scorsese               Comedy         10        180       2013       Leonardo DiCaprio Jonah Hill 
+
+Report for command: N,M,Hidden Figures,Theodore Melfi,9,Drama,126,2016,Jaraji P Henson,Octavia Spencer,Janelle Monae
+Title                                             Name                          Genre          Rating    Length    Year       Additional Info
+-----------------------------------------------------------------------------------------------------------------------------
+No entries found for command: N,M,Hidden Figures,Theodore Melfi,9,Drama,126,2016,Jaraji P Henson,Octavia Spencer,Janelle Monae
+
+Report for command: N,M,Psych 2: Lassie Come Home,Steve Franks,16,Comedy,115,2020,James Roday,Dule Hill,Timothy Omundson
+Title                                             Name                          Genre          Rating    Length    Year       Additional Info
+-----------------------------------------------------------------------------------------------------------------------------
+No entries found for command: N,M,Psych 2: Lassie Come Home,Steve Franks,16,Comedy,115,2020,James Roday,Dule Hill,Timothy Omundson
+
+Report for command: N,S,Africa,Toto,7,rock,295,1982,1
+Title                                             Name                          Genre          Rating    Length    Year       Additional Info
+-----------------------------------------------------------------------------------------------------------------------------
+No entries found for command: N,S,Africa,Toto,7,rock,295,1982,1
+
+Report for command: N,S,Respect,Aretha Franklin,ERROR,R&B,281,1967,1
+Title                                             Name                          Genre          Rating    Length    Year       Additional Info
+-----------------------------------------------------------------------------------------------------------------------------
+No entries found for command: N,S,Respect,Aretha Franklin,ERROR,R&B,281,1967,1
+
+Report for command: N,S,Strawberry Fields Forever,Beatles,9,pop,ERROR,1967,0
+Title                                             Name                          Genre          Rating    Length    Year       Additional Info
+-----------------------------------------------------------------------------------------------------------------------------
+No entries found for command: N,S,Strawberry Fields Forever,Beatles,9,pop,ERROR,1967,0
+
+Report for command: N,S,Strawberry Fields Forever,Beatles,9,pop,185,1967,ERROR
+Title                                             Name                          Genre          Rating    Length    Year       Additional Info
+-----------------------------------------------------------------------------------------------------------------------------
+No entries found for command: N,S,Strawberry Fields Forever,Beatles,9,pop,185,1967,ERROR
+
+Report for command: N,S,Strawberry Fields Forever,Beatles,9,pop,185,1967,1
+Title                                             Name                          Genre          Rating    Length    Year       Additional Info
+-----------------------------------------------------------------------------------------------------------------------------
+No entries found for command: N,S,Strawberry Fields Forever,Beatles,9,pop,185,1967,1
+
+Report for command: N,S,Bohemian Rhapsody,Queen,8,rock,355,1975,1
+Title                                             Name                          Genre          Rating    Length    Year       Additional Info
+-----------------------------------------------------------------------------------------------------------------------------
+No entries found for command: N,S,Bohemian Rhapsody,Queen,8,rock,355,1975,1
+
+Report for command: N,B,Close Encounters,Steven Spielberg,5,Science Fiction,256,1997,ERROR
+Title                                             Name                          Genre          Rating    Length    Year       Additional Info
+-----------------------------------------------------------------------------------------------------------------------------
+No entries found for command: N,B,Close Encounters,Steven Spielberg,5,Science Fiction,256,1997,ERROR
+
+Report for command: N,B,Close Encounters,Steven Spielberg,5,Science Fiction,256,1997,5
+Title                                             Name                          Genre          Rating    Length    Year       Additional Info
+-----------------------------------------------------------------------------------------------------------------------------
+No entries found for command: N,B,Close Encounters,Steven Spielberg,5,Science Fiction,256,1997,5
+
+Report for command: N,B,The Brothers Hawthorne,Jennifer Lynn Barnes,9,Mystery,400,ERROR,0
+Title                                             Name                          Genre          Rating    Length    Year       Additional Info
+-----------------------------------------------------------------------------------------------------------------------------
+No entries found for command: N,B,The Brothers Hawthorne,Jennifer Lynn Barnes,9,Mystery,400,ERROR,0
+
+Report for command: N,B,Lessons in Chemistry,Bonnie Garmus,5,Humor,320,2026,0
+Title                                             Name                          Genre          Rating    Length    Year       Additional Info
+-----------------------------------------------------------------------------------------------------------------------------
+No entries found for command: N,B,Lessons in Chemistry,Bonnie Garmus,5,Humor,320,2026,0
+
+Report for command: N,B,Lessons in Chemistry,Bonnie Garmus,5,Humor,320,2022,5
+Title                                             Name                          Genre          Rating    Length    Year       Additional Info
+-----------------------------------------------------------------------------------------------------------------------------
+No entries found for command: N,B,Lessons in Chemistry,Bonnie Garmus,5,Humor,320,2022,5
+
+Report for command: N,S,Yellow Submarine,Beatles,8,pop,310,1966,1
+Title                                             Name                          Genre          Rating    Length    Year       Additional Info
+-----------------------------------------------------------------------------------------------------------------------------
+No entries found for command: N,S,Yellow Submarine,Beatles,8,pop,310,1966,1
+
+Report for command: S,9
+Title                                             Name                          Genre          Rating    Length    Year       Additional Info
+-----------------------------------------------------------------------------------------------------------------------------
+No entries found for command: S,9
+
+Report for command: B,7
+Title                                             Name                          Genre          Rating    Length    Year       Additional Info
+-----------------------------------------------------------------------------------------------------------------------------
+No entries found for command: B,7
+
+Report for command: B,Suspense
+Title                                             Name                          Genre          Rating    Length    Year       Additional Info
+-----------------------------------------------------------------------------------------------------------------------------
+No entries found for command: B,Suspense
+
+Media by Stephen King:
+Maximum Overdrive                                 Stephen King                  Horror         5         167       1986       Emilio Estivez Pat Hingle Laura Harrington
+Report for command: S,R&B
+Title                                             Name                          Genre          Rating    Length    Year       Additional Info
+-----------------------------------------------------------------------------------------------------------------------------
+No entries found for command: S,R&B
+
+Report for command: S,Rock
+Title                                             Name                          Genre          Rating    Length    Year       Additional Info
+-----------------------------------------------------------------------------------------------------------------------------
+No entries found for command: S,Rock
+
+Report for command: S,none
+Title                                             Name                          Genre          Rating    Length    Year       Additional Info
+-----------------------------------------------------------------------------------------------------------------------------
+No entries found for command: S,none
+
+Stars in Dune: Timothee Chalamet Zendaya  
+Movies featuring Octavia Spencer:
+Movies featuring Harrison Ford:
+Raiders of the Lost Ark
+Star Wars IV
+Blade Runner 2049
+Movies featuring Victor Lee:
+Media by Harrison Ford:
+Media by Steven Spielberg:
+Jaws                                              Steven Spielberg              Action         5         129       1975       Roy Scheider Richard Dreyfuss 
+Jurassic Park                                     Steven Spielberg              Sci-Fi         8         127       1993       Sam Neill Jeff Goldblum 
+Media by Bee Gees:
+Media by Beatles:
+Report for command: A
+Title                                             Name                          Genre          Rating    Length    Year       Additional Info
+-----------------------------------------------------------------------------------------------------------------------------
+To Kill a Mockingbird                             Horton Foote                  Drama          5         129       1962       Gregory Peck Mary Badham 
+Ferris Bueller's Day Off                          John Hughes                   Comedy         7         103       1986       Matthew Broderick Alan Ruck Jennifer Grey
+Rocky                                             Sylvester Stallone            Action         7         119       1976       Sylvester Stallone Carl Weathers 
+Jaws                                              Steven Spielberg              Action         5         129       1975       Roy Scheider Richard Dreyfuss 
+Daughters of the Dust                             Julie Dash                    Drama          8         112       1991       Alva Rogers Cora Lee Day 
+Raiders of the Lost Ark                           George Lucas                  Action         6         115       1981       Harrison Ford Karen Allen 
+Star Wars IV                                      George Lucas                  Action         6         121       1977       Mark Hamill Carrie Fisher Harrison Ford Alec Guiness
+Mr. Holland's Opus                                Stephen Herek                 Drama/Musical  8         143       1995       Richard Dreyfuss Jay Thomas Glenne Headly
+Blade Runner 2049                                 Denis Villeneuve              Sci-Fi         9         163       2017       Ryan Gosling Harrison Ford 
+Jurassic Park                                     Steven Spielberg              Sci-Fi         8         127       1993       Sam Neill Jeff Goldblum 
+Dune                                              Denise Villeneuve             Sci-Fi         7         155       2021       Timothee Chalamet Zendaya 
+Fight Club                                        David Fincher                 Drama          10        7219      1999       Brad Pitt Edward Norton 
+Percy Jackson and the Lightning Thief             Chris Columbus                Fantasy        2         119       2010       Logan Lerman Alexandra Daddario 
+The Grand Budapest Hotel                          Wes Anderson                  Adventure      9         100       2014       Ralph Fiennes Saoirse Ronan 
+Superman                                          Richard Donner                Sci-Fi         8         143       1978       Christopher Reeve Gene Hackman Margo Kidder
+Spirited Away                                     Hayao Miyazaki                Fantasy        8         125       2002       Rumi Hiiragi Miyu Irino 
+Gone Girl                                         David Fincher                 Thriller/Mystery10        149       2014       Ben Affleck Rosamund Pike 
+Moonlight                                         Barry Jenkins                 Drama          10        119       2016       Mahershala Ali Naomi Harris 
+The Wolf of Wallstreet                            Martin Scorsese               Comedy         10        180       2013       Leonardo DiCaprio Jonah Hill 
+Maximum Overdrive                                 Stephen King                  Horror         5         167       1986       Emilio Estivez Pat Hingle Laura Harrington
+
+Total Movies: 20
+Total Books: 0
+Total Songs: 0
+Thank You for Using Media Everywhere

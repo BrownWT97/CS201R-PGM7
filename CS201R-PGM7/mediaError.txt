@@ -1,0 +1,65 @@
+Non-numeric value in numeric field: M	Hidden Figures	9	Drama	126	2016	Jaraji P Henson	Octavia Spencer	Janelle Monae		
+Invalid number of fields for Book (expected 8): B	To Kill a Mockingbird	Harper Lee	8	Southern Gothic Fiction	281	1960	4			
+Year out of range (1920-2024): B	Hamlet	William Shakespeare	4	Tragedy	214	1600	5			
+Non-numeric value in numeric field: B	Fahrenheit 451	Ray Bradbury	Sci-Fi	256	1953	8				
+Invalid number of fields for Book (expected 8): B	Animal Farm	 George Orwell	8	Allegory	112	1945	6			
+Invalid number of fields for Book (expected 8): B	The Great Gatsby	F.Scott Fitzgerald	7	Modernist novel	205	1925	10			
+Invalid number of fields for Book (expected 8): B	The Catcher in the Rye	JD Salinger	3	Coming of Age	234	1951	9			
+Invalid number of fields for Book (expected 8): B	Lord of the Flies	William Golding	6	Adventure	224	1954	3			
+Invalid number of fields for Book (expected 8): B	Of Mice and Men	John Steinbeck	5	Tragedy	107	1937	15			
+Rating out of range (1-10): M	So I Married an Axe Murderer	Thomas Schlamme	15	Comedy	93	1993	Mike Meyers	Nancy Travis		
+Year out of range (1920-2024): B	Crime and Punishment	Fyodor Dostoevsky	7	Crime Fiction	576	1866	15			
+Invalid number of fields for Book (expected 8): B	House of Leaves	Mark Z. Danielewski	9	Horror	709	2000	0			
+Invalid number of fields for Book (expected 8): B	I Can Teach You to Be Rich	Ramit Sethi	8	Self Help	272	2009	16			
+Invalid number of fields for Book (expected 8): B	Neuromancer	William Gibson	10	Cyberpunk	271	1984	16			
+Invalid number of fields for Book (expected 8): B	Percy Jackson and the Last Olympian	Rick Riordan	9	Fantasy	381	2009	15			
+Invalid number of fields for Book (expected 8): B	Six of Crows	Leigh Bardugo	10	Fantasy	462	2015	20			
+Invalid number of fields for Book (expected 8): B	The Alchemist	Paulo Coelho	9	Adventure	163	1993	10			
+Invalid number of fields for Book (expected 8): B	The Goldfinch	Donna Tartt	10	Suspense	784	2013	1			
+Invalid number of fields for Book (expected 8): B	The Hunger Games	Suzanne Collins	7	Action	284	2008	15			
+Invalid number of fields for Book (expected 8): B	The Music of Erich Zann	H.P. Lovecraft	10	Horror	20	1921	2			
+Invalid number of fields for Book (expected 8): B	Watchmen	Alan Moore	8	Sci-Fi	416	1987	ERROR			
+Invalid number of fields for Book (expected 8): B	Way of kings	Brandon Sanderson	10	Fantasy	1200	2010	5			
+Invalid number of fields for Song (expected 8): S	All Too Well	Taylor Swift	10	Pop	327	2012	1			
+Year out of range (1920-2024): S	Baba Yetu	Christopher Tin	10	Choir	203	2025	0			
+Invalid number of fields for Song (expected 8): S	Ball if I want to	Da Baby	10	Rap	192	2021	1			
+Non-numeric value in numeric field: S	Blinding Lights	the Weeknd	10	9	INVALID	2020	1			
+Invalid number of fields for Song (expected 8): S	Call out my name	The Weeknd	8	R&B	228	2021	0			
+Invalid number of fields for Song (expected 8): S	Yesterday	Beatles	8	Rock	123	1965	1			
+Invalid number of fields for Song (expected 8): S	Compass	The Neighbourhood	8	Indie	167	2018	1			
+Invalid number of fields for Song (expected 8): S	Easy on me	Adele	6	pop	332	2021	0			
+Invalid number of fields for Song (expected 8): S	Figures	Jessie Reyez	8	R&B	240	2018	0			
+Invalid number of fields for Song (expected 8): S	First Love / Late Spring	Mitski	10	Indie	278	2014	1			
+Invalid number of fields for Song (expected 8): S	Frozen	Sabrina Lauduio	5	R&B	242	2017	1			
+Invalid number of fields for Song (expected 8): S	Garden Grove	Sublime	10	Reggae	262	1998	0			
+Invalid number of fields for Song (expected 8): S	Hey Jude	Beatles	10	Rock	431	1968	1			
+Invalid number of fields for Song (expected 8): S	Har dil ki ava	Atif aslam	10	Slow music	188	2014	1			
+Invalid number of fields for Song (expected 8): S	Holy Ghost	Borns	8	Choir	256	2015	1			
+Invalid number of fields for Song (expected 8): S	kal ho na ho	singh	9	Punajbi	241	2009	0			
+Invalid number of fields for Song (expected 8): S	Let It Be	Beatles	9	Rock	241	1970	1			
+Invalid number of fields for Song (expected 8): S	Monks	Frank Ocean	10	Pop	199	2012	1			
+Invalid number of fields for Song (expected 8): S	More Than a Woman	Bee Gees	9	Pop	195	1977	0			
+Invalid number of fields for Song (expected 8): S	nasha ha	Ali zafar	8	normal one	258	2010	0			
+Invalid number of fields for Song (expected 8): S	Out Tha Mud	Kevin Gates	10	Rap	187	2015	0			
+Invalid number of fields for Song (expected 8): S	Phali dafa	Atif aslam	9	urdu	284	2017	0			
+Invalid number of fields for Song (expected 8): S	Sea Dragon	Covet	9	Math Rock	333	2018	1			
+Invalid number of fields for Song (expected 8): S	Slacker	Tech N9ne	10	Rap	257	2002	1			
+Invalid number of fields for Song (expected 8): S	Something	Snarky Puppy ft.Lahlah Hathaway	10	R&B - Jazz	464	2015	1			
+Invalid number of fields for Song (expected 8): S	Stayin' Alive	Bee Gees	10	Pop	419	1979	ERROR			
+Invalid number of fields for Song (expected 8): S	Sweet Caroline	Neil Diamond	10	Rock	203	1969	1			
+Invalid number of fields for Song (expected 8): S	Sweet Life	Frank Ocean	8	Pop	262	2012	0			
+Invalid number of fields for Song (expected 8): S	Thank u - next	Ariana Grande	8	Pop	207	2019	1			
+Invalid number of fields for Song (expected 8): S	The Mountain Top	Lena Raine	10	Video Game Soundtrack	259	2021	0			
+Invalid number of fields for Song (expected 8): S	Tik Tok	Kesha	9	Pop	199	2009	1			
+Invalid number of fields for Song (expected 8): S	Tranquility Base Hotel & Casino	Arctic Monkeys	10	Rock	211	2018	1			
+Invalid number of fields for Song (expected 8): S	Wake Up	Eden	9	Alternative	279	2015	0			
+Invalid type in record: Q										
+Rating out of range in command: M,11
+Rating out of range in command: B,15
+Movie not found: Hidden Figures
+Movie not found: Lost
+No movies found for star: Octavia Spencer
+No movies found for star: Victor Lee
+No media found for name: Harrison Ford
+No media found for name: Bee Gees
+No media found for name: Beatles
