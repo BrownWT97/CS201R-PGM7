@@ -1,4 +1,9 @@
 // CS201R-PGM7.cpp : Main program for Media Library Part 2
+//Used Grok 3 for bugtesting and adding notes, also used to generate functions.h and functions.cpp
+//prompts used: "Help me solve these issues" with the errors listed and the .cpp files in question
+//"add notes to files" with all the files included to give it access to add notes
+//used the program assignment document as a prompt to help create functions.h and functions.cpp
+
 #include <iostream>
 #include <fstream>
 #include <string>
